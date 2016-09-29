@@ -1,12 +1,12 @@
 # refactor-me-1
 Your first refactoring task
 
-#instructions
+# instructions
 Fork the repository then download it. Open RefactorMe.java in Netbeans and begin working on the following tasks:
-1. Fix the get name method to display a name from a variable
-2. Make the calculateSalary method perform the correct calculation and print it out
-3. Create more if statements in the calculateSides method for all the shapes listed in the comments
-4. Create a Scanner object and use it in the countLetters method to display the number of letters in any given single word
+- Fix the get name method to display a name from a variable 
+- Make the calculateSalary method perform the correct calculation and print it out
+- Create more if statements in the calculateSides method for all the shapes listed in the comments
+- Create a Scanner object and use it in the countLetters method to display the number of letters in any given single word
 
 ```java
 package refactorme;
